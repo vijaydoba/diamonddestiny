@@ -17,14 +17,20 @@ export default function Contact() {
           <div className="contactRow">
             <div className="contactLabel">Email</div>
             <div className="contactValue">
-              <strong>support@yourdomain.com</strong>
+              <strong>diamonddestiny1103@gmail.com</strong>
             </div>
           </div>
 
           <div className="contactRow">
             <div className="contactLabel">WhatsApp</div>
             <div className="contactValue">
-              <strong>+91 XXXXXXXXXX</strong>
+              <strong>+49 1785793147</strong>
+            </div>
+          </div>
+          <div className="contactRow">
+            <div className="contactLabel">WhatsApp</div>
+            <div className="contactValue">
+              <strong>+91 8306141092</strong>
             </div>
           </div>
         </div>
