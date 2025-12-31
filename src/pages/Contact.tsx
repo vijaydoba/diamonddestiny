@@ -17,7 +17,7 @@ export default function Contact() {
           <div className="contactRow">
             <div className="contactLabel">Email</div>
             <div className="contactValue">
-              <strong>diamonddestiny1103@gmail.com</strong>
+              <strong>diamonddestiny1103@outlook.com</strong>
             </div>
           </div>
 
